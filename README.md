@@ -36,9 +36,3 @@
 **Tools & DevOps**
 - Git, GitHub Actions, Docker
 - AWS EC2, Linux, Nginx
-
----
-
-<p align="center">
-  Thanks for visiting my profile! 😊
-</p>
